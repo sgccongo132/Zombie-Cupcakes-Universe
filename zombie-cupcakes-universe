@@ -1,0 +1,7 @@
+zombie-cupcakes-universe/
+│
+├── index.html
+├── styles.css
+├── script.js (optional)
+└── logo.jpg (or logo.png)
+print("Hallo")
